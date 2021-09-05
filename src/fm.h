@@ -1,0 +1,15 @@
+void HookMaxLPBypass();
+void AdjustLPString();
+void HookDuelistCodeBypass();
+bool SceneIsPvP();
+bool SceneIsDuel();
+bool TurnTransitioned();
+void SetSeed();
+void AdvanceSeed();
+void RemoveTrapRotation();
+void SwitchSides();
+void UpdateImgAndText(char player);
+void ChangeCardView(char player);
+bool LoadingLifePoints();
+void CheckEndOfDuel();
+void HandleGame(char player);
